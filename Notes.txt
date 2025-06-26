@@ -1,0 +1,16 @@
+🚀 Step-by-Step Plan (We're Here: Step 1 Complete ✅)
+1.Create and activate virtual environment ✅
+
+2.Install required packages
+	pip install fastapi uvicorn scikit-learn pandas joblib
+
+
+3.Build & train a simple sentiment analysis model (using sklearn)
+
+4.Save it as sentiment_model.pkl
+
+5.Create FastAPI app to serve predictions
+
+6.Test locally via Swagger UI
+
+7.Deploy (e.g., with Render or HuggingFace Spaces)
